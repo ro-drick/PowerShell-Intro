@@ -1,6 +1,6 @@
 # PowerShell-Intro
 
-## Overview
+## Over
 
 This repository contains a script showcasing basic PowerShell concepts, such as:
 
